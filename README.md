@@ -8,14 +8,3 @@ We recommend that using the [Github Desktop](https://desktop.github.com/) to get
 
 ## Challenge
 Add your name to the [hall of fame](https://github.com/CodeHubOrg/git-playground/blob/master/hall-of-fame.md) and make a [pull request](https://help.github.com/articles/about-pull-requests/)
-
-## Check list
-Can you?
-* Checkout a project
-* View log history
-* Make changes
-* View current status
-* Commit changes
-* Make a branch
-* Delete a branch
-* Make a pull request
